@@ -55,6 +55,10 @@
       "yup": "^0.32.11",
       "zingmp3-api-full": "^1.0.14"
    },
+    "engines": {
+    "node": "16.13.0",
+    "npm": ">=6.0.0"
+  },
    "scripts": {
       "start": "react-scripts start",
       "build": "react-scripts build",
