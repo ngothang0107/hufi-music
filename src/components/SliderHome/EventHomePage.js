@@ -17,7 +17,7 @@ const EventHomePage = memo(() => {
 
    useEffect(() => {
       if (data) {
-         setData(dataSelector?.items)
+         setData(dataSelector.items)
       }
    }, [status])
 
